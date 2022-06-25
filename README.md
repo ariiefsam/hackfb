@@ -1,4 +1,5 @@
 # hackfb
+pkg update && upgrade
 pkg install curl git python2
 
 pkg install git
